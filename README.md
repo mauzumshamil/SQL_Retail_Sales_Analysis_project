@@ -214,6 +214,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## AUTHOR
 
 **MAUZUM SHAMIL**
+
+
 **LINKEDIN**: http://linkedin.com/in/mauzum-shamil
 **PORTFOLIO**: https://linktr.ee/mauzum_shamil
 **GITHUB**: https://github.com/mauzumshamil
